@@ -2,7 +2,7 @@
 
 Generate a QR code to continue watching YouTube videos from the exact same spot on your phone. No more guessing timestamps or scrubbing through videos.
 
-![Extension Icon](icons/icon.svg)
+![Extension Icon](icons/icon-48.png)
 
 ## What It Does
 
