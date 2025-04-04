@@ -1,8 +1,7 @@
+![Extension Icon](icons/icon-128.png)
 # YouTube QR Code Generator
 
 Generate a QR code to continue watching YouTube videos from the exact same spot on your phone. No more guessing timestamps or scrubbing through videos.
-
-![Extension Icon](icons/icon-48.png)
 
 ## What It Does
 
